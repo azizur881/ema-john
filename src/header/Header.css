@@ -1,0 +1,33 @@
+#head{
+   text-align: center;
+}
+   
+    
+.head{
+
+    height: 80px;
+    margin-top:10px;
+   
+}
+.nav-bar{
+    background-color:black;
+    margin:20px 0px;
+    font-size: 30px;
+    /* padding:20px 0px; */
+    /* text-align: left; */
+    
+
+}
+.nav-bar a{
+    text-decoration:none;
+    color: white;
+    padding:2px 5px;
+    margin-right: 10px;
+    /* margin-left: 10px; */
+    border-radius: 5px;
+
+}
+.nav-bar a:hover{
+    background-color: rgba(248, 113, 23, 0.74);
+    transition: .3s;
+}
